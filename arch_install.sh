@@ -1,3 +1,4 @@
+#test
 # == MY ARCH SETUP INSTALLER == #
 #part1
 printf '\033c'
